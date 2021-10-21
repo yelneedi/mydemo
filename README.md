@@ -1,7 +1,2 @@
 # mydemo
-dfs
-df
-sdf
-sd
-fsd
-fs
+i am srihari
